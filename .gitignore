@@ -27,3 +27,4 @@ Temporary Items
 .apdisk
 .venv
 .idea
+third_party/**
